@@ -13,3 +13,4 @@
 **29 août** : Repo GitHub AWS-SAA-Labs créé et structuré (notes/, labs/, projets/). Deck Anki créé avec 5 premières cartes (S3, EBS, EFS, EC2, VPC).
 
 **30 août** : Journal créé. Phase 0 terminée — un peu en retard sur le calendrier initial mais tout l'environnement fonctionne correctement.
+Semaine 1 - Jour 1 : première instance EC2 lancée et connexion SSH réussie.
